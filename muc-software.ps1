@@ -16,3 +16,4 @@ choco install thunderbird --version 91.7.0 -y
 choco install eclipse --version 4.22 -y
 choco install microsoft-windows-terminal --version 1.12.10393.0 -y
 choco install autodesk-fusion360 --version 2.0.12392 -y
+choco install chocolateygui --version 0.20.0 -y
