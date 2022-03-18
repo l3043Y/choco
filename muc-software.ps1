@@ -14,5 +14,6 @@ choco install vscode --version 1.65.2 -y
 choco install googlechrome --version 99.0.4844.51 -y
 choco install eclipse --version 4.22 -y
 choco install microsoft-windows-terminal --version 1.12.10393.0 -y
+choco install office2019proplus --version 2019.1808 -y
 choco install autodesk-fusion360 --version 2.0.12392 -y
 choco install chocolateygui --version 0.20.0 -y
